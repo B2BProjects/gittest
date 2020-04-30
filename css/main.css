@@ -1,16 +1,17 @@
-body {
-    background-color: aqua;
-
+body,
+html {
+    background: #2aa826;
+    margin: 0px auto;
 }
+
 p {
-    color: rgb(126, 18, 18);
+    color: #7e1212;
 }
 
 h2 {
     font-size: 50px;
+    font-weight: 500;
+    border: solid 5px #000;
 }
-div {
-    display: grid;
-    text-align: center;
-    color: #000;
-}
+
+/*# sourceMappingURL=main.css.map */

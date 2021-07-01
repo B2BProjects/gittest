@@ -1,17 +1,22 @@
 body,
 html {
-    background: #2aa826;
-    margin: 0px auto;
+  background: #2aa826;
+  margin: 0px auto;
+  font-size: 14px;
 }
 
 p {
-    color: #7e1212;
+  color: #7e1212;
 }
 
 h2 {
-    font-size: 50px;
-    font-weight: 500;
-    border: solid 5px #000;
+  font-size: 50px;
+  font-weight: 500;
+  border: solid 5px #000;
 }
 
+span {
+  color: #000;
+  font-weight: 600;
+}
 /*# sourceMappingURL=main.css.map */

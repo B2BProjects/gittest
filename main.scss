@@ -2,6 +2,7 @@ body,
 html {
     background: rgb(42, 168, 38);
     margin: 0px auto;
+    font-size: 14px;
 }
 
 // first line
@@ -14,4 +15,8 @@ h2 {
     font-size: 50px;
     font-weight: 500;
     border: solid 5px #000;
+}
+
+span {
+    color: #000;
 }

@@ -6,9 +6,9 @@ html {
 }
 
 .list__lines {
-  display: -webkit-inline-box;
-  display: -ms-inline-flexbox;
-  display: inline-flex;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
@@ -55,5 +55,6 @@ p {
   -webkit-transition-duration: 0.4s;
           transition-duration: 0.4s;
   border: 1px solid #4CAF50;
+  cursor: pointer;
 }
 /*# sourceMappingURL=main.css.map */
